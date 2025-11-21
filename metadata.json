@@ -1,0 +1,7 @@
+{
+  "name": "FloraLens",
+  "description": "Your AI-powered gardening assistant. Identify plants from photos and get expert care advice instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
